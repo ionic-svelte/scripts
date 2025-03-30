@@ -1,7 +1,7 @@
 <script lang="ts">
 	// here your menu component
 	// import Menu from "...";
-	import { setupIonicBase } from 'ionic-svelte';
+	import { setupIonicBase } from '@ionic-svelte/core';
 
 	/* Call Ionic's setup routine */
 	setupIonicBase();
